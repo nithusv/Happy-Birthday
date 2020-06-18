@@ -13,3 +13,11 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.topic{
+    font-family: 'Caveat', cursive;
+    position: relative;
+    top: 15%;
+    color: #FFFF;
+    font-size: 100px;
+}
